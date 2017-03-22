@@ -1,0 +1,15 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "npm exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calder Marshall",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "marked": "^0.3.6"
+  }
+}
